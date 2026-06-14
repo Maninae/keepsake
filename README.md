@@ -2,7 +2,7 @@
 
 A private page, hosted in public.
 
-This repo contains exactly one thing: an AES-256-encrypted HTML file, served at **[maninae.github.io/keepsake](https://maninae.github.io/keepsake/)**. Without the passphrase, it's noise. With it, it's something personal to the owner — which is all this README will say about the contents.
+This repo contains AES-256-encrypted HTML pages, served at **[maninae.github.io/keepsake](https://maninae.github.io/keepsake/)** (and subpaths). Without the passphrase, each is noise. With it, it's something personal to the owner — which is all this README will say about the contents.
 
 ---
 
